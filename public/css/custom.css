@@ -1,0 +1,48 @@
+.bdr{
+border: 1px solid #222fb9 !important;
+}
+
+.bg-login{
+    background-image: url(../images/login-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Administrator {
+    max-width: 90%;
+    background: #e5e7ff;
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 7px #bdbbbbb8;
+}
+
+.userss {
+    max-width: 90%;
+    background: #e5e7ff;
+    padding: 15px;
+    border-radius: 4px;
+    float:right;
+    box-shadow: 3px 3px 7px #bdbbbbb8;
+}
+
+.bdr-l {
+    border-right: 2px
+ solid #222fb9;
+}
+
+.bdr-r {
+    border-left: 2px
+ solid #222fb9;
+}
+
+.img-size{
+  height: 70px;
+  width:70px;
+  float: left;
+  margin-left:5px;
+ }
+
+
+ .set-pos {
+    right: 20px;
+}
